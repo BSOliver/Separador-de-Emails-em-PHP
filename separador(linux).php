@@ -28,7 +28,7 @@ if(isset($argv[1])){
 	}
 	break;
 			default:
-			echo "Comando desconhecido, digite --ajuda para saber o uso do script.";
+			echo "Comando desconhecido, digite --ajuda para saber o uso do script.\n";
 }
 
 }else{
